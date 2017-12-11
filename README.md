@@ -1,3 +1,3 @@
 # WabFBL
-เขียนด้วย Visual studio 2017 <br>
+Visual studio <br>
 ASP.NET
